@@ -14,7 +14,7 @@ A powerful command-line tool that converts Roblox place files (.rbxlx) to fully 
 
 ## Installation
 
-### Option 1: Download the Pre-built Executable
+### Option 1: Download the Pre-built Executable (Windows)
 
 1. Download the latest release from the releases section
 2. Extract the ZIP file to a location of your choice
@@ -110,7 +110,7 @@ The converter:
 
 ## Requirements
 
-- Windows operating system
+- Windows operating system or just Python
 - No additional runtime dependencies (executable is self-contained)
 
 ## License
