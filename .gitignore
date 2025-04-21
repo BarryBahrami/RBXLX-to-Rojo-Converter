@@ -1,0 +1,36 @@
+# Roblox project files
+*.rbxlx
+*.rbxl
+*.rbxm
+*.rbxmx
+
+# Output directory
+output/
+attached_assets/
+
+# Build artifacts
+dist/
+build/
+*.spec
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+.venv
+venv/
+ENV/
+
+# Python package builds
+*.egg-info/
+*.egg
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
